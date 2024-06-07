@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ernesto Soberano\\Documents\\9no cuatri\\net\\Biblioteca92\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|c:\\users\\ernesto soberano\\documents\\9no cuatri\\net\\biblioteca92\\webapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|c:\\users\\ernesto soberano\\documents\\9no cuatri\\net\\biblioteca92\\webapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|c:\\users\\ernesto soberano\\documents\\9no cuatri\\net\\biblioteca92\\webapi\\services\\autorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\autorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|c:\\users\\ernesto soberano\\documents\\9no cuatri\\net\\biblioteca92\\webapi\\services\\iautorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D87496D-AC7C-4541-9321-50BF51934250}|WebApi\\WebApi.csproj|solutionrelative:webapi\\services\\iautorservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Ernesto Soberano\\Documents\\9no cuatri\\net\\Biblioteca92\\WebApi\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Ernesto Soberano\\Documents\\9no cuatri\\net\\Biblioteca92\\WebApi\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwDYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:55:59.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Ernesto Soberano\\Documents\\9no cuatri\\net\\Biblioteca92\\WebApi\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\Ernesto Soberano\\Documents\\9no cuatri\\net\\Biblioteca92\\WebApi\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AutoresController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAxwCwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:25:46.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAutorServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ernesto Soberano\\Documents\\9no cuatri\\net\\Biblioteca92\\WebApi\\Services\\IAutorServices.cs",
+              "RelativeDocumentMoniker": "WebApi\\Services\\IAutorServices.cs",
+              "ToolTip": "C:\\Users\\Ernesto Soberano\\Documents\\9no cuatri\\net\\Biblioteca92\\WebApi\\Services\\IAutorServices.cs",
+              "RelativeToolTip": "WebApi\\Services\\IAutorServices.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:25:24.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutorServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ernesto Soberano\\Documents\\9no cuatri\\net\\Biblioteca92\\WebApi\\Services\\AutorServices.cs",
+              "RelativeDocumentMoniker": "WebApi\\Services\\AutorServices.cs",
+              "ToolTip": "C:\\Users\\Ernesto Soberano\\Documents\\9no cuatri\\net\\Biblioteca92\\WebApi\\Services\\AutorServices.cs",
+              "RelativeToolTip": "WebApi\\Services\\AutorServices.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAowFYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T22:44:57.488Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
